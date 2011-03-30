@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GUI!</string>
+    <string name="app_name">GUI</string>
+    <string name="SearchEditText">Search</string>
+    <string name="SearchAutoCompleteTextView">Search</string>
+    <string name="searchHint">Search</string>
+</resources>
